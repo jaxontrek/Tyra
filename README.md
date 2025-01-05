@@ -1,4 +1,4 @@
-# Eliza 🤖
+# Tyra 🤖
 
 <div align="center">
   <img src="./docs/static/img/tyra.jpg" alt="Tyra Banner" width="100%" />
